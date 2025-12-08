@@ -12,6 +12,7 @@
 % -------------------------------------------
 
 road(oklahoma_city, dallas, 330).
+% Enhanced route finding capabilities with bidirectional connections
 road(dallas, austin, 315).
 road(austin, houston, 265).
 road(oklahoma_city, tulsa, 170).
