@@ -2,7 +2,7 @@
 % Route and Path Planning in ASP (clingo)
 % Same problem as the Prolog version:
 % Find a path from a start city to a goal city
-% and minimize the total distance.
+% whilst minimizing the total distance.
 % ===========================================
 
 % -------------------------------------------
